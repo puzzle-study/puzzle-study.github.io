@@ -14,11 +14,11 @@
 
 ## 1. 仮想空間にオブジェクトを置いてみる
 
-![結果1](images/resule_01.png)
+![結果1](images/result_01.png)
 
 ## 2. 動かすキャラクターを置く
 
-![結果2](images/resule_01.png)
+![結果2](images/result_02.png)
 
 ## 3. 盤面をモデル化する
 
