@@ -20,28 +20,51 @@
 
 ## 3. 盤面をモデル化する
 
+![結果3](images/result_03.png)
+
 ## 4. 左右移動
+
+![結果4](images/result_04.png)
 
 ## 5. 回転
 
+![結果5](images/result_05.png)
+
 ## 6. アニメーションして動く
+
+![結果6](images/result_06.png)
 
 ## 7. キー入力の加工
 
+![結果7](images/result_07.png)
+
 ## 8. 重力落下
+
+![結果8](images/result_08.png)
 
 ## 9. 次の色をランダムに決める
 
+![結果9](images/result_09.png)
+
 ## 10. ゲームの流れを作る
+
+![結果10](images/result_10.png)
 
 ## 11. 下に何もなければ落ちる
 
+![結果11](images/result_11.png)
+
 ## 12. 4つ以上くっついたら消す
+
+![結果12](images/result_12.png)
 
 ## 13. 得点を計算する
 
+![結果13](images/result_13.png)
+
 ## 14. タイトル画面を追加します
 
+![結果14](images/result_14.png)
 
 
 
