@@ -19,13 +19,13 @@
 
 ## 1. 仮想空間にオブジェクトを置いてみる
 
-[説明ページ](https://github.com/puzzle-study/01_create_project){: .btn} Unityのプロジェクトを作って枠とかを置いてみます。
+[説明ページ](https://github.com/puzzle-study/01_create_project) Unityのプロジェクトを作って枠とかを置いてみます。
 
 ![結果1](images/result_01.png)
 
 ## 2. 動かすキャラクターを置く
 
-<button name="button" onclick="https://github.com/puzzle-study/02_prefab">説明ページ</button>
+[説明ページ](https://github.com/puzzle-study/02_prefab")
 
 ![結果2](images/result_02.png)
 
