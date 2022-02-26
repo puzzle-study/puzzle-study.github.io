@@ -29,11 +29,13 @@
 
 ## 5. 回転
 
-<video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" data-canonical-src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## 6. アニメーションして動く
 
-<iframe width="100%" height="100%" src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## 7. キー入力の加工
 
