@@ -43,7 +43,7 @@
 
 ## 5. 回転
 
-[[解説へ飛ぶ!]](https://github.com/puzzle-study/05_rotate) 
+[[解説へ飛ぶ!]](https://github.com/puzzle-study/05_rotate) ぷよぷよを回転させます。おまけとして、上を押した時に瞬間的に移動するクイックドロップも実装してみます。
 
 <video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" style="max-width: 100%;"></video>
 
