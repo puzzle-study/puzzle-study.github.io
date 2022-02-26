@@ -37,7 +37,7 @@
 
 ## 4. 左右移動
 
-[[解説へ飛ぶ!]](https://github.com/puzzle-study/04_player") 
+<a href="https://github.com/puzzle-study/04_player" class="btn">解説へ飛ぶ</a>  キー入力を受けて、左右に動かせるようにします。
 
 <video src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" controls="controls" style="max-width: 100%;"></video>
 
