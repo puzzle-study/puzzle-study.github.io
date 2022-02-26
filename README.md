@@ -25,13 +25,13 @@
 
 ## 2. 動かすキャラクターを置く
 
-[[解説へ飛ぶ!]](https://github.com/puzzle-study/02_prefab") 
+{{[解説へ飛ぶ!]](https://github.com/puzzle-study/02_prefab") }}
 
 ![結果2](images/result_02.png)
 
 ## 3. 盤面をモデル化する
 
-[[解説へ飛ぶ!]](https://github.com/puzzle-study/03_board") 
+[{%解説へ飛ぶ%}](https://github.com/puzzle-study/03_board") 
 
 ![結果3](images/result_03.png)
 
