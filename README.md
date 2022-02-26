@@ -24,12 +24,12 @@
 
 ## 4. 左右移動
 
-<video src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" controls="controls" style="max-width: 100%;">
 </video>
 
 ## 5. 回転
 
-<video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" style="max-width: 100%;">
 </video>
 
 ## 6. アニメーションして動く
@@ -43,18 +43,13 @@
 
 ## 8. 重力落下
 
-<video src="https://user-images.githubusercontent.com/936545/155825637-0777c010-6ce6-4153-8217-528cb622b2d4.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/936545/155825637-0777c010-6ce6-4153-8217-528cb622b2d4.mp4" controls="controls" style="max-width: 100%;">
 </video>
-
-
-
-
-
-![結果8](images/result_08.png)
 
 ## 9. 次の色をランダムに決める
 
-![結果9](images/result_09.png)
+<video src="https://user-images.githubusercontent.com/936545/155825884-d5c6e4ae-dc41-4ed9-8770-cedcf61f5190.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ## 10. ゲームの流れを作る
 
