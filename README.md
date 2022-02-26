@@ -25,6 +25,8 @@
 
 ## 2. 動かすキャラクターを置く
 
+<button name="button" onclick="https://github.com/puzzle-study/02_prefab">説明ページ</button>
+
 ![結果2](images/result_02.png)
 
 ## 3. 盤面をモデル化する
