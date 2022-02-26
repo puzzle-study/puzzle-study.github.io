@@ -31,13 +31,13 @@
 
 ## 3. 盤面をモデル化する
 
-[解説へ飛ぶ](https://github.com/puzzle-study/03_board) 仮想的な3次元空間とは別に２次元配列を用意して、物体の配置を管理します。
+[解説へ飛ぶ!](https://github.com/puzzle-study/03_board) 仮想的な3次元空間とは別に２次元配列を用意して、物体の配置を管理します。
 
 ![結果3](images/result_03.png)
 
 ## 4. 左右移動
 
-<a href="https://github.com/puzzle-study/04_player" class="btn">解説へ飛ぶ</a>  キー入力を受けて、左右に動かせるようにします。
+[解説へ飛ぶ!](https://github.com/puzzle-study/04_player)  キー入力を受けて、左右に動かせるようにします。
 
 <video src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" controls="controls" style="max-width: 100%;"></video>
 
