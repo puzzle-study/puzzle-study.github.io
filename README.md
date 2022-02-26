@@ -64,6 +64,5 @@
 
 ## 14. タイトル画面を追加します
 
-<video src="
-" controls="controls" style="max-width: 100%;"></video>
+<video src="https://user-images.githubusercontent.com/936545/155829021-4bb291f4-bdfa-4b6b-8eab-6cb9a34f09c7.mp4" controls="controls" style="max-width: 100%;"></video>
 
