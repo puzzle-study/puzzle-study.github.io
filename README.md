@@ -53,24 +53,21 @@
 
 ## 10. ゲームの流れを作る
 
-![結果10](images/result_10.png)
+<video src="https://user-images.githubusercontent.com/936545/155826116-5ef255ec-5d9c-49f1-8b31-2a7c25045321.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 11. 下に何もなければ落ちる
 
-![結果11](images/result_11.png)
+<video src="" controls="controls" style="max-width: 100%;"></video>
 
 ## 12. 4つ以上くっついたら消す
 
-![結果12](images/result_12.png)
+<video src="" controls="controls" style="max-width: 100%;"></video>
 
 ## 13. 得点を計算する
 
-![結果13](images/result_13.png)
+<video src="" controls="controls" style="max-width: 100%;"></video>
 
 ## 14. タイトル画面を追加します
 
-![結果14](images/result_14.png)
-
-
-
+<video src="" controls="controls" style="max-width: 100%;"></video>
 
