@@ -24,18 +24,15 @@
 
 ## 4. 左右移動
 
-<video src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<video src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 5. 回転
 
-<video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<video src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 6. アニメーションして動く
 
-<video src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<video src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 7. キー入力の加工
 
@@ -43,13 +40,11 @@
 
 ## 8. 重力落下
 
-<video src="https://user-images.githubusercontent.com/936545/155826203-08534a20-c7ec-482e-9e8a-fc33dbe2762b.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<video src="https://user-images.githubusercontent.com/936545/155826203-08534a20-c7ec-482e-9e8a-fc33dbe2762b.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 9. 次の色をランダムに決める
 
-<video src="https://user-images.githubusercontent.com/936545/155825884-d5c6e4ae-dc41-4ed9-8770-cedcf61f5190.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<video src="https://user-images.githubusercontent.com/936545/155825884-d5c6e4ae-dc41-4ed9-8770-cedcf61f5190.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 10. ゲームの流れを作る
 
@@ -62,8 +57,7 @@
 
 ## 12. 4つ以上くっついたら消す
 
-<video src="
-" controls="controls" style="max-width: 100%;"></video>
+<video src="https://user-images.githubusercontent.com/936545/155828497-2a1c9ba8-1496-43e0-93d7-388f7fd400b1.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 13. 得点を計算する
 
