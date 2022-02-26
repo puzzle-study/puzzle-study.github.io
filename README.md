@@ -24,7 +24,7 @@
 
 ## 4. 左右移動
 
-![結果4](images/result_04.png)
+https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4
 
 ## 5. 回転
 
