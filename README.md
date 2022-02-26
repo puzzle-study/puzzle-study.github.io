@@ -24,17 +24,16 @@
 
 ## 4. 左右移動
 
-<iframe width="1366" height="768" src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![動画]({https://user-images.githubusercontent.com/936545/155824085-2426c928-6faf-4c8d-9627-8e74e8992b76.mp4})
 
 ## 5. 回転
 
-<iframe width="80%" height="80%" src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" frameborder="0"></iframe>
+<iframe width="100%" height="100%" src="https://user-images.githubusercontent.com/936545/155824493-863e47eb-75f6-4682-8d92-05b47fe7f5df.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 6. アニメーションして動く
 
-<iframe width="80%" src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 7. キー入力の加工
 
