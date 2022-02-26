@@ -25,7 +25,7 @@
 
 ## 2. 動かすキャラクターを置く
 
-[[解説へ飛ぶ!]](https://github.com/puzzle-study/02_prefab) }} Unityのプレハブ機能を使って、スクリプト付きのオブジェクトを素材として扱ってみます。
+[[解説へ飛ぶ!]](https://github.com/puzzle-study/02_prefab) Unityのプレハブ機能を使って、スクリプト付きのオブジェクトを素材として扱ってみます。
 
 ![結果2](images/result_02.png)
 
