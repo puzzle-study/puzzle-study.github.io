@@ -60,7 +60,7 @@
 
 ## 13. 得点を計算する
 
-<video src="https://user-images.githubusercontent.com/936545/155828839-1bf1828b-32aa-4a93-b42c-c4eb390e2cb8.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="https://user-images.githubusercontent.com/936545/155828911-2c03fc47-ec24-40c3-9cb0-72178c2e1e59.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 14. タイトル画面を追加します
 
