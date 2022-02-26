@@ -25,13 +25,13 @@
 
 ## 2. 動かすキャラクターを置く
 
-{{[解説へ飛ぶ!]](https://github.com/puzzle-study/02_prefab") }}
+{{[解説へ飛ぶ!]](https://github.com/puzzle-study/02_prefab") }} Unityのプレハブ機能を使って、スクリプト付きのオブジェクトを素材として扱ってみます。
 
 ![結果2](images/result_02.png)
 
 ## 3. 盤面をモデル化する
 
-[{%解説へ飛ぶ%}](https://github.com/puzzle-study/03_board") 
+[{%解説へ飛ぶ%}](https://github.com/puzzle-study/03_board") 仮想的な3次元空間とは別に２次元配列を用意して、物体の配置を管理します。
 
 ![結果3](images/result_03.png)
 
