@@ -39,10 +39,16 @@
 
 ## 7. キー入力の加工
 
-
 今回の結果は、前回と違いがありません。
 
 ## 8. 重力落下
+
+<video src="https://user-images.githubusercontent.com/936545/155825637-0777c010-6ce6-4153-8217-528cb622b2d4.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+
+
+
 
 ![結果8](images/result_08.png)
 
