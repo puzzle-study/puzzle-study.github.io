@@ -1,6 +1,7 @@
 layout: default
 title: ステップバイステップ落ちものパズル
 ---
+
 ぷよぷよは、現在では、[ぷよぷよプログラミング](https://puyo.sega.jp/program_2020/)でソースコードが公開されて、
 手軽にプログラミングできるようになっています。
 
@@ -54,7 +55,6 @@ title: ステップバイステップ落ちものパズル
 <video src="https://user-images.githubusercontent.com/936545/155826116-5ef255ec-5d9c-49f1-8b31-2a7c25045321.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 11. 下に何もなければ落ちる
-
 
 <video src="https://user-images.githubusercontent.com/936545/155828110-8f43b9f8-1fe4-4fd2-9933-8d8a227cc16c.mp4" controls="controls" style="max-width: 100%;"></video>
 
