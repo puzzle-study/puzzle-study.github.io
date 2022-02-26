@@ -19,7 +19,7 @@
 
 ## 1. 仮想空間にオブジェクトを置いてみる
 
-[{%解説へ飛ぶ!%}](https://github.com/puzzle-study/01_create_project) Unityのプロジェクトを作って枠やぷよっぽいものを置いてみます。
+[`解説へ飛ぶ!`](https://github.com/puzzle-study/01_create_project) Unityのプロジェクトを作って枠やぷよっぽいものを置いてみます。
 
 ![結果1](images/result_01.png)
 
