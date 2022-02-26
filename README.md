@@ -34,7 +34,7 @@
 
 ## 6. アニメーションして動く
 
-<video src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/936545/155825023-d2ec379d-8ce1-40a9-8131-c3ac43f4f866.mp4" controls="controls" style="max-width: 100%;">
 </video>
 
 ## 7. キー入力の加工
